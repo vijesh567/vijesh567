@@ -1,3 +1,4 @@
+<img src ="Mern.jpg"/>
 <h1 align="center">Hello 👋, I'm Sighakolli Venkata Ram Vijesh</h1>
 
 <h3 align="center">👨‍💻 Passionate MERN Stack Developer</h3>
