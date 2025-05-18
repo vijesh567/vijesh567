@@ -8,8 +8,8 @@
 </p>
 ---
 <div align="center">
-    <img src="https://leadschool.in/wp-content/uploads/2022/04/shutterstock_1777292972.jpg" height="100" width="300" alt="Image 2" />
-  <img src="https://images8.alphacoders.com/115/1156488.png" height="100" width = "300"alt="Image 1" />
+    <img src="https://leadschool.in/wp-content/uploads/2022/04/shutterstock_1777292972.jpg" height="200" width="400" alt="Image 2" />
+  <img src="https://images8.alphacoders.com/115/1156488.png" height="200" width = "400"alt="Image 1" />
 </div>
   
 ### 🌐 Connect with me:
