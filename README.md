@@ -59,10 +59,10 @@
 <hr>
 <h3>🚀 My Experience </h3>
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGyy6fLY8Kh1A/company-logo_200_200/B4EZX6f6kWGgAM-/0/1743664425950/ceeras_logo?e=1753315200&v=beta&t=KTgYjCRL68tQ0PvnkDw_oY7I9az0s14TVR6w_ixsWsc" width="250" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQF3BGO6qeKxag/company-logo_200_200/company-logo_200_200/0/1711490864969?e=1753315200&v=beta&t=-O-TyIcqiF0fJK8QvMVbtsmIveYBXDyiq0UuiOlfCbs" width="250" />
+  &nbsp;&nbsp;
+  <img src="Ceeras.jpg" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQF3BGO6qeKxag/company-logo_200_200/company-logo_200_200/0/1711490864969?e=1753315200&v=beta&t=-O-TyIcqiF0fJK8QvMVbtsmIveYBXDyiq0UuiOlfCbs" height="100" width="100" />
 </p>
 
 <hr>
