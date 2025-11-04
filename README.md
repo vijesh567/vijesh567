@@ -86,3 +86,121 @@
 </p>
 
 ---
+==============================================================================================================================================
+🧭 1️⃣ పరిచయం (Introduction)
+
+నీ గురించి చిన్న పరిచయం ఇవ్వాలి:
+
+# 👋 హలో, నేను సిఘకొల్లి వెంకట రామ్ విజయేష్  
+### 👨‍💻 ఆతురత కలిగిన MERN స్టాక్ డెవలపర్
+
+
+👉 ఇక్కడ నువ్వు ఎవరు, ఏ రంగంలో నిపుణుడివో చెప్పు:
+
+నేను MERN స్టాక్ (MongoDB, Express, React, Node.js) లో నైపుణ్యం కలిగిన ఫుల్‌స్టాక్ డెవలపర్‌ని.
+ఆధునిక వెబ్ యాప్స్‌ను రూపొందించడం, కొత్త టెక్నాలజీలను నేర్చుకోవడం నాకు ఇష్టం.
+
+💡 2️⃣ నా గురించి (About Me)
+
+కొంచెం వ్యక్తిగత వివరాలు ఇవ్వు:
+
+- 🌱 ప్రస్తుతం నేర్చుకుంటున్నవి: **ReactJS, NodeJS, ExpressJS, MongoDB**  
+- 💼 నా పోర్ట్‌ఫోలియో చూడండి 👉 [My Portfolio](https://vijesh-website.vercel.app/home.html)  
+- 📧 సంప్రదించండి: **ramsighakolli@gmail.com**
+
+
+✅ ఎమోజీలను ఉపయోగిస్తే చూడటానికి బాగుంటుంది.
+
+🌐 3️⃣ నన్ను సంప్రదించండి (Connect With Me)
+
+ఇది ఇతర డెవలపర్లు, ఫ్రెండ్స్, రిక్రూటర్లు నీతో కనెక్ట్ అవ్వడానికి:
+
+నన్ను సోషల్ మీడియా లేదా కోడింగ్ ప్లాట్‌ఫార్మ్స్‌లో ఫాలో అవ్వండి 👇
+
+అన్ని లింకులను బ్యాడ్జ్‌ల రూపంలో ఇవ్వు (Twitter, LinkedIn, LeetCode మొదలైనవి).
+
+<p align="center">
+  <a href="https://twitter.com/..." target="_blank"><img src="..." /></a>
+</p>
+
+🛠️ 4️⃣ భాషలు మరియు సాధనాలు (Languages and Tools)
+
+ఇది నీ టెక్ స్కిల్స్‌ను చూపిస్తుంది:
+
+నేను తరచుగా ఉపయోగించే టెక్నాలజీలు 👇
+
+<p align="left">
+  <img src="..." alt="JavaScript" width="40"/>
+  <img src="..." alt="React" width="40"/>
+  ...
+</p>
+
+
+వాటిని ఇలా వర్గీకరించు:
+
+ఫ్రంట్‌ఎండ్: HTML, CSS, React, Redux, Tailwind, Bootstrap
+
+బ్యాక్‌ఎండ్: Node.js, Express.js
+
+డేటాబేస్‌లు: MongoDB, MySQL, PostgreSQL
+
+టూల్స్: Git, Docker, Postman, AWS, Figma
+
+🧑‍💻 5️⃣ అనుభవం (Experience)
+
+నీ ఇంటర్న్‌షిప్‌లు లేదా ప్రాజెక్ట్ అనుభవాలు చెప్పు:
+
+నేను అనేక వెబ్ ప్రాజెక్ట్స్ మరియు టీమ్ వర్క్‌లో పాల్గొని ప్రాక్టికల్ అనుభవం సంపాదించాను.
+
+కంపెనీ లోగోలు లేదా సర్టిఫికేట్లు ఇక్కడ జతచేయి:
+
+<p>
+  <img src="company-logo.png" width="100"/>
+  <img src="internship-logo.png" width="100"/>
+</p>
+
+🚀 6️⃣ ప్రాజెక్టులు (Projects)
+
+ప్రతి ప్రాజెక్ట్‌కి చిన్న వివరణ ఇవ్వు:
+
+ప్రాజెక్ట్ పేరు
+
+టెక్ స్టాక్
+
+Live Demo లింక్
+
+GitHub లింక్
+
+ఉదాహరణ:
+
+<table>
+<tr>
+<td><img src="project-image.jpg" width="250" /></td>
+<td>
+<strong>వివరణ:</strong> React ఆధారిత వెబ్ యాప్.<br>
+<strong>టెక్ స్టాక్:</strong> React.js, Node.js, MongoDB<br>
+🌐 <a href="LiveDemoLink">Live Demo</a><br>
+💻 <a href="GitHubLink">GitHub Repo</a>
+</td>
+</tr>
+</table>
+
+📊 7️⃣ GitHub గణాంకాలు (GitHub Stats)
+
+నీ GitHub ప్రొఫైల్‌కి సంబంధించిన డేటా చూపించు:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijesh567&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijesh567&layout=compact&theme=tokyonight"/>
+</p>
+
+
+👉 ఇది నీ కోడింగ్ యాక్టివిటీని చూపిస్తుంది.
+
+🏁 చివరగా
+
+ఈ README ఫైల్ నీ GitHub ప్రొఫైల్‌కి ఒక పరిచయం లాంటిది.
+ఇతర డెవలపర్లు, రిక్రూటర్లు నిన్ను మరియు నీ పనిని సులభంగా అర్థం చేసుకునేలా ఈ సమాచారం స్పష్టంగా ఉండాలి.
