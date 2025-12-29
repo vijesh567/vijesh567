@@ -87,8 +87,9 @@
 <hr>
 
 ## 🚀 Projects
-<p align="center">
 ### 🏋️ Fitness Coach Scheduler
+<p align="center">
+
 
 <img src="https://c4.wallpaperflare.com/wallpaper/206/268/839/pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg" width="250"/>
 </p>
