@@ -1,5 +1,4 @@
-<img src="./assets/Mern.jpg"/>
-
+<img src ="Mern.jpg"/>
 <h1 align="center">Hello 👋, I'm Vijesh Sighakolli</h1>
 
 <h3 align="center">👨‍💻 Passionate MERN Stack Developer</h3>
