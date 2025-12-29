@@ -89,33 +89,35 @@
 ## 🚀 Projects
 ### 🏋️ Fitness Coach Scheduler
 <p align="center">
-
-
 <img src="https://c4.wallpaperflare.com/wallpaper/206/268/839/pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg" width="250"/>
 </p>
+
 **Description:**  
 A MERN stack web application to schedule and track fitness coach sessions.
 
 **Tech Stack:** Node.js, Express.js, MongoDB  
 🌐 [Live Demo](https://hotel-booking-3t8u.onrender.com/)  
 💻 [GitHub Repo](https://github.com/vijesh567/Hotel-Booking)
-</p>
+
 ---
-<p align="center">
 ### 🎥 NeoJoin
+
+<p align="center">
 <img src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_512.png" width="200"/>
+</p>
 
 **Description:**  
 A real-time video meeting and chat application for team collaboration.
 
 **Tech Stack:** React.js, JavaScript  
 💻 [GitHub Repo](https://github.com/vijesh567/NeoJoin)
-</p>
+
 ---
 ### 🤝 ProHub
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="200"/>
 </p>
+
 **Description:**  
 A MERN-based application for collaboration and working with talents.
 
