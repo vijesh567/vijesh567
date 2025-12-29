@@ -112,16 +112,16 @@ A real-time video meeting and chat application for team collaboration.
 💻 [GitHub Repo](https://github.com/vijesh567/NeoJoin)
 </p>
 ---
-<p align="center">
 ### 🤝 ProHub
+<p align="center">
 <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="200"/>
-
+</p>
 **Description:**  
 A MERN-based application for collaboration and working with talents.
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Socket.IO  
 💻 [GitHub Repo](https://github.com/vijesh567/ProHub)
-</p>
+
 <hr>
 
 <p align="center">
