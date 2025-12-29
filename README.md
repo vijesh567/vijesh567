@@ -81,10 +81,8 @@
 
 ## 🚀 Experience
 <p>
-  <img src="./assets/Ceeras.jpg" width="250"/><br><br>
   <strong>CEERAS</strong><br>
-  Software Engineering Intern<br>
-  Worked on MERN stack development, REST APIs, and real-time features.
+  <img src="Ceeras.jpg" width="250" />
 </p>
 
 <hr>
